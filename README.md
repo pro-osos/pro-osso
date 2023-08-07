@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Osama
+- 👋 Hi, My name is Osama - Full Stack WordPress Developer  
 - 👀 I am passionate about developing and managing new projects.
 - 🌱 I have a strong understanding of software development principles and methodologies
 - 💞️ I am always looking for new challenges and opportunities to grow my skills and knowledge.
